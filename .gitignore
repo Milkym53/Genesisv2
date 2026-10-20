@@ -1,6 +1,4 @@
-node_modules
-.idea
-.DS_Store
-.hintrc
-.gitpod.yml 
+node_modules/
 .env
+*.log
+.DS_Store
